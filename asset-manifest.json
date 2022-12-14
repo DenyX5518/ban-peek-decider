@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4950a7a5.css",
+    "main.js": "./static/js/main.431bf2ee.js",
+    "static/media/Csgo-de-cbble.png": "./static/media/Csgo-de-cbble.8d702bae748850a70750.png",
+    "static/media/CSGO_Nuke_22_Nov_2019_update_picture_1.png": "./static/media/CSGO_Nuke_22_Nov_2019_update_picture_1.e5779deb9d8df0bce1eb.png",
+    "static/media/Csgo-shortdust-mid.png": "./static/media/Csgo-shortdust-mid.6062b5ecd375abbebda5.png",
+    "static/media/inferno.png": "./static/media/inferno.93245164d060e369c859.png",
+    "static/media/Csgo-overpass.png": "./static/media/Csgo-overpass.db86edcfc0be65cd31b1.png",
+    "static/media/vertigo.png": "./static/media/vertigo.e74d7c2b4eac0d0d67a5.png",
+    "static/media/600px-Train_csgo.png": "./static/media/600px-Train_csgo.0ed88839f3b24d58305d.png",
+    "static/media/600px-BLAST_Premier.png": "./static/media/600px-BLAST_Premier.5eb21205bc1a0f6a2d19.png",
+    "index.html": "./index.html",
+    "main.4950a7a5.css.map": "./static/css/main.4950a7a5.css.map",
+    "main.431bf2ee.js.map": "./static/js/main.431bf2ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4950a7a5.css",
+    "static/js/main.431bf2ee.js"
+  ]
+}
